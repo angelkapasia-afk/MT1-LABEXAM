@@ -123,4 +123,3 @@ git push
 - [ ] EchoAPI GET, POST, PUT and DELETE responses
 - [ ] GitHub repository and commit history
 
-Screenshots must be captured from your own running application; they are not fabricated or included as evidence in this starter solution.
